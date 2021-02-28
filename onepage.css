@@ -61,7 +61,7 @@
     color: white;
     /* background-color:black; */
     /* background: linear-gradient(black 70% , transparent ); */
-    background-image: linear-gradient(#e66465, #1e4794);
+    background-image: linear-gradient(#e66465, #e7f6fd);
     height: 300px;
     font-size: 24px;
 }
@@ -94,9 +94,7 @@
 	padding-right: 1em;
 	padding-left: 1em;
 }
-.row{
 
-}
 
 .container{
     align-content: center;
@@ -141,9 +139,7 @@
         flex-direction:column;
 
     }
-    .info-three{
 
-    }
 
 }
 
@@ -178,6 +174,6 @@ body{
     display:flex;           
     flex-direction: column; /*stack the element horizontally*/
     min-height: 100vh;      /*body's height takes up at least entire height of the viewport*/
-    background-color:#1e4794;
+    background-color:#e7f6fd;
 }
 
